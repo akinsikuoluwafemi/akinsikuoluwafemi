@@ -2,12 +2,12 @@
 
 [![Website](https://fontmeme.com/permalink/200402/1bbfb101792de39b85fcea68e43b26ac.png)](https://femiakin.com)
 
-## I'm a Software Developer!!
+## I'm a Software Developer/Blockchain Developer!!
 
-- 🔭 I just completed my bachelors level diploma on OPenClassrooms
-- 🌱 I’m currently a Full Stack developer
+- I have a bachelors level diploma on OPenClassrooms on FullStack Web Development
+- I’m currently a Full Stack developer and a Blockchain Developer
 - 👯 I’m looking to collaborate with other engineers, on building more amazing projects
-- 🥅 2021 Goals: Contribute more to Open Source projects and get a course on Vertical Farming
+- 🥅 2022 Goals: Contribute more to Open Source projects, build and collaborate with lots of engineers in the WEB3 space
 - ⚡ Fun fact: I love VR and AR and I fantacize about being and on air personality 😁 
 
 
