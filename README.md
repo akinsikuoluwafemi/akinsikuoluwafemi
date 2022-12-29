@@ -7,7 +7,7 @@
 - I have a bachelors level diploma on OPenClassrooms on FullStack Web Development
 - I’m currently a Full Stack developer and a Blockchain Developer
 - 👯 I’m looking to collaborate with other engineers, on building more amazing projects
-- 🥅 2022 Goals: Contribute more to Open Source projects, build and collaborate with lots of engineers in the WEB3 space
+- 🥅 2023 Goals: Contribute more to Open Source projects, build and collaborate with lots of engineers.
 - ⚡ Fun fact: I love VR and AR and I fantacize about being and on air personality 😁 
 
 
