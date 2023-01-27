@@ -1,51 +1,55 @@
-### Hi there, I'm Femi - aka [retiredSuperHero][website] 👋
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Femi Akinsiku</h3>
 
-[![Website](https://fontmeme.com/permalink/200402/1bbfb101792de39b85fcea68e43b26ac.png)](https://femiakin.com)
+<!-- Profile Views -->
 
-## I'm a Software Developer/Blockchain Developer!!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akinsikuoluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="akinsikuoluwafemi" />
+</p>
 
-- I have a bachelors level diploma on OPenClassrooms on FullStack Web Development
-- I’m currently a Full Stack developer and a Blockchain Developer
-- 👯 I’m looking to collaborate with other engineers, on building more amazing projects
-- 🥅 2023 Goals: Contribute more to Open Source projects, build and collaborate with lots of engineers.
-- ⚡ Fun fact: I love VR and AR and I fantacize about being and on air personality 😁 
+<p align="center">
+  <a href="https://femiakin.com/">Website</a> •
+  <a href="https://twitter.com/david_akinsiku">Twitter</a>
+</p>
 
+<!-- code gif-->
+<img align="right" alt="GIF" src="./code.gif" width="400" height="320" />
 
-### Connect with me:
+# Senior Engineer
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+I am a senior software engineer with over 5 years of experience in the industry. I specialize in full-stack development, with a particular focus on developing and maintaining large-scale, high-performance web applications.
 
-<br />
+## Skills
 
-### Languages and Tools:
+- Proficient in languages such as JavaScript, Typescript and Ruby,
+- Experience with modern web development frameworks such as React, Next.js and Vue
+- Strong understanding of data structures, algorithms, and software design principles
+- Experience with cloud-based infrastructure (AWS, GCP, Azure)
+- Familiarity with containerization and orchestration technologies (Docker, Kubernetes)
+- For database I use postgres, mysql, mongo, firebase etc
+- Strong debugging and problem-solving skills
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
-[<img align="left" alt="Ruby" width="26px" src="https://femiakin.com/static/media/ruby.a36b66db.svg" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+## Contact
 
-<br />
-<br />
+- Email: akinsiku13@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/femiakinsiku/](https://www.linkedin.com/in/femiakinsiku/)
 
----
+<!-- About section: END -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  <!-- GitHub section -->
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akinsikuoluwafemi&show_icons=true&hide_border=true" />
+## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 
-</details>
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akinsikuoluwafemi" alt="Femi LangStat" />
+  
+</div>
 
----
+## GitHub Stats
 
-[website]: https://femiakin.com
-[twitter]: https://twitter.com/david_akinsiku
-[linkedin]: https://www.linkedin.com/in/oluwafemi-akinsiku-85a37b141
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinsikuoluwafemi&show_icons=true&theme=tokyonight)
+
+## Language Usage
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akinsikuoluwafemi&layout=compact&theme=tokyonight)
+
+<!-- THE END -->
