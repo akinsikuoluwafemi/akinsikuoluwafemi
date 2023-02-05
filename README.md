@@ -48,6 +48,10 @@ I am a senior software engineer with over 5 years of experience in the industry.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinsikuoluwafemi&show_icons=true&theme=tokyonight)
 
+| My commit history                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Femi's](https://github-readme-activity-graph.cyclic.app/graph?username=akinsikuoluwafemi&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
 ## Language Usage
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akinsikuoluwafemi&layout=compact&theme=tokyonight)
