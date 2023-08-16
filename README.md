@@ -1,59 +1,24 @@
-<!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Femi Akinsiku</h3>
+# 💫 About Me:
+## Hello, I'm [Oluwafemi] 👋<br><br>I'm a passionate Frontend-to-Fullstack Engineer with a knack for crafting seamless user experiences and diving deep into the world of web development. My journey has led me through various technologies and stacks, and I thrive on the ever-evolving nature of the tech landscape.<br><br>🔭 I am currently working on:<br>- Building dynamic and interactive web applications using React, Next.js, and TypeScript.<br>- Exploring the capabilities of AWS to deploy scalable and reliable applications.<br>- Developing blockchain-based solutions using Ethereum, leveraging Ethers.js and Hardhat for smart contract development.<br><br>🤝 I am willing to collaborate on:<br>- Exciting projects that challenge my skills and allow me to contribute to innovative solutions.<br>- Open-source initiatives that promote knowledge sharing and community growth.<br><br>🔍 I am looking for help with:<br>- Scaling applications to handle high traffic and optimizing performance.<br>- Deepening my understanding of blockchain technologies and decentralized applications.<br><br>📚 I am currently learning:<br>- Exploring advanced techniques in React and Next.js to create efficient and maintainable frontends.<br>- Mastering AWS services for seamless deployment, monitoring, and management.<br>- Delving into blockchain scaling solutions and Layer 2 technologies.<br><br>💬 Ask me about:<br>- React and Next.js best practices for building captivating user interfaces.<br>- Integrating blockchain functionalities into modern web applications.<br>- Tips for transitioning from frontend development to becoming a well-rounded fullstack engineer.<br><br>⚡ Fun Fact:<br>In my free time, I enjoy experimenting with new cooking recipes and drawing inspiration from diverse cuisines around the world. Just as in coding, I believe that creativity and experimentation lead to the most satisfying outcomes!<br><br>📫 How to Reach Me:<br><br>🌐 [LinkedIn](https://www.linkedin.com/in/femiakinsiku/)<br>🐦 [Twitter](https://twitter.com/david_akinsiku)<br>📧 [Email](mailto:akinsiku13@gmail.com)<br><br>Looking forward to connecting, collaborating, and crafting amazing digital experiences together!<br>
 
-<!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akinsikuoluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="akinsikuoluwafemi" />
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/femi.akinsiku.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akinsikuoluwafemi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/femiakinsiku) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/david_akinsiku) 
 
-<p align="center">
-  <a href="https://femiakin.com/">Website</a> •
-  <a href="https://twitter.com/david_akinsiku">Twitter</a>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=plastic&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=material-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akinsikuoluwafemi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akinsikuoluwafemi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akinsikuoluwafemi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="400" height="320" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# Senior Engineer
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=akinsikuoluwafemi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-I am a senior software engineer with over 5 years of experience in the industry. I specialize in full-stack development, with a particular focus on developing and maintaining large-scale, high-performance web applications.
+---
+[![](https://visitcount.itsvg.in/api?id=akinsikuoluwafemi&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## Skills
-
-- Proficient in languages such as JavaScript, Typescript and Ruby,
-- Experience with modern web development frameworks such as React, Next.js and Vue
-- Strong understanding of data structures, algorithms, and software design principles
-- Experience with cloud-based infrastructure (AWS, GCP, Azure)
-- Familiarity with containerization and orchestration technologies (Docker, Kubernetes)
-- For database I use postgres, mysql, mongo, firebase etc
-- Strong debugging and problem-solving skills
-
-## Contact
-
-- Email: akinsiku13@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/femiakinsiku/](https://www.linkedin.com/in/femiakinsiku/)
-
-<!-- About section: END -->
-
-  <!-- GitHub section -->
-
-## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
-
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akinsikuoluwafemi" alt="Femi LangStat" />
-  
-</div>
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akinsikuoluwafemi&show_icons=true&theme=tokyonight)
-
-| My commit history                                                                                                                                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Femi's](https://github-readme-activity-graph.cyclic.app/graph?username=akinsikuoluwafemi&bg_color=151515&color=c1c0c1&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-
-## Language Usage
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akinsikuoluwafemi&layout=compact&theme=tokyonight)
-
-<!-- THE END -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
