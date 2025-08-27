@@ -83,9 +83,6 @@ A health-tech platform redefining patient and provider experiences through real-
   <img src="https://github-readme-stats.vercel.app/api?username=akinsikuoluwafemi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinsikuoluwafemi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akinsikuoluwafemi&theme=tokyonight&column=7&margin-w=10&hide_border=true" alt="Trophy" />
-</p>
 
 
 ---
