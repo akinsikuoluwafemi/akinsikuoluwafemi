@@ -1,10 +1,10 @@
- 
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=900&color=0A6CF1&vCenter=true&width=500&lines=Hello%2C+I+am+David!;A+Senior+Software+Engineer;Nice+to+meet+you!" alt="Typing SVG" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=akinsikuoluwafemi&style=flat-square&color=0A6CF1" alt="Profile Views" />
 </div>
 
- <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github" alt="Open Source Contributor" />
   <img src="https://img.shields.io/badge/Years%20of%20Experience-7+-blue?style=for-the-badge" alt="Experience" />
   <img src="https://img.shields.io/badge/Tech%20Stack-Full%20Stack-orange?style=for-the-badge" alt="Tech Stack" />
@@ -22,14 +22,14 @@ company: Accenture
 website: femiakin.com
 ```
 
-With 7+ years of professional experience, I specialize in building and architecting scalable, high-performance web applications. I operate at the intersection of frontend, backend, and cloud infrastructure, leveraging modern technologies to deliver robust, maintainable, and elegant solutions.
+I'm a Senior Software Engineer with 7+ years of experience delivering scalable, high-performance web applications. I thrive at the intersection of frontend, backend, and cloud infrastructure—building robust, maintainable solutions with modern technologies.
 
-- ⚡ **Expertise:** TypeScript, React, Next.js, Node.js, Nest.js, GraphQL, Prisma, PostgreSQL, AWS, Docker
-- 🏛️ **Architecture:** Distributed systems, modular monoliths, microservices, and event-driven systems
-- 👥 **Leadership:** Led & mentored engineering teams; established best practices & technical vision
-- 🚀 **Cloud/DevOps:** Deploying, monitoring, and optimizing cloud-native apps on AWS
-- 🔄 **Workflow Optimization:** Streamlining CI/CD, code quality, and developer experience
-- 💡 **Product Thinking:** End-to-end delivery, balancing technical excellence with business value
+- **Expertise:** TypeScript, React, Next.js, Node.js, NestJS, GraphQL, Prisma, PostgreSQL, AWS, Docker
+- **Architecture:** Distributed systems, modular monoliths, microservices, event-driven design
+- **Leadership:** Led & mentored engineering teams; set best practices & technical vision
+- **Cloud/DevOps:** Deploying, monitoring, and optimizing cloud-native apps on AWS
+- **Workflow Optimization:** Streamlining CI/CD, code quality, and developer experience
+- **Product Thinking:** Balancing technical excellence with business value for end-to-end delivery
 
 > “Driven by curiosity, powered by technology, and passionate about building impactful products with world-class teams.”
 
@@ -47,24 +47,22 @@ With 7+ years of professional experience, I specialize in building and architect
 
 ---
 
-## 🏆 What I Bring to the Table
+## 🏆 What I Bring
 
 - **Scalability & Performance:** Architected and implemented distributed systems handling high traffic and big data.
-- **Leadership & Mentorship:** Guided teams, led technical discussions, and contributed to engineering culture.
+- **Leadership & Mentorship:** Guided teams, led technical discussions, and fostered strong engineering culture.
 - **System Design & Code Quality:** Designed robust, modular applications with clean architecture.
 - **Cloud & DevOps:** Hands-on with AWS, CI/CD, and infrastructure as code.
-- **End-to-End Product Delivery:** Balancing business needs with technical vision for real-world impact.
+- **End-to-End Product Delivery:** Balancing business priorities with technical vision for impactful solutions.
 
 ---
 
 ## 🚀 Featured Project
 
-<a href="https://github.com/akinsikuoluwafemi/sono-plus">Sono+</a>
- 
+**[Sono+](https://github.com/akinsikuoluwafemi/sono-plus)**  
 <sub>
 A health-tech platform redefining patient and provider experiences through real-time features, scalable architecture, and modern web technologies.
 </sub>
-<br clear="left" />
 
 ---
 
@@ -73,7 +71,7 @@ A health-tech platform redefining patient and provider experiences through real-
 - 🎤 Karaoke enthusiast (ask me about my favorite songs!)
 - 🍳 Cooking as creative therapy
 - 🌍 Exploring cultures (currently in Lisbon, Portugal)
-- 📚 Lifelong learning—especially in distributed systems and cloud architecture
+- 📚 Lifelong learner—especially in distributed systems and cloud architecture
 
 ---
 
@@ -83,7 +81,6 @@ A health-tech platform redefining patient and provider experiences through real-
   <img src="https://github-readme-stats.vercel.app/api?username=akinsikuoluwafemi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akinsikuoluwafemi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 
 ---
 
